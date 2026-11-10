@@ -1,10 +1,6 @@
-# FunStudent — запуск
+# FunStudent
 
-1. Запустите бэкенд: `StudentApplication` → ▶ в IntelliJ
-2. В папке проекта выполните:
-
-       python server.py 3000 9090
-
-3. Откройте http://localhost:3000
+1. Запустите `StudentApplication` 
+2. Откройте http://localhost:8080
 
 Вход: `admin@example.com` / `admin`
